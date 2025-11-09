@@ -1,0 +1,15 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+README.md
+.venv
+tests/allure_report
+
+.idea
+.pytest_cache
+__pycache__
