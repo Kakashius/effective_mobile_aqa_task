@@ -1,5 +1,6 @@
 .venv
 tests/allure_report/*
+!/tests/allure_report/.gitkeep
 .git
 .pytest_cache
 __pycache__
